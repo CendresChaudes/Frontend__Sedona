@@ -11,4 +11,4 @@
 
 ---
 
-Ссылка на проект: [https://cendreschaudes.github.io/HTMLAcademy__HTML1-Sedona/]
+Ссылка на проект: https://cendreschaudes.github.io/HTMLAcademy__HTML1-Sedona/
