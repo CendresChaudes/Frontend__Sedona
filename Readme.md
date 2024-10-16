@@ -11,4 +11,4 @@
 
 ---
 
-Ссылка на деплой: https://cendreschaudes.github.io/Frontend__Sedona/
+Ссылка на деплой: https://cendreschaudes.github.io/LearningFrontend__Sedona/
