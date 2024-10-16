@@ -11,4 +11,4 @@
 
 ---
 
-Ссылка на деплой: https://cendreschaudes.github.io/HTMLAcademy__HTML1-Sedona/
+Ссылка на деплой: https://cendreschaudes.github.io/Frontend__Sedona/
